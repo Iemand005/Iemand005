@@ -21,3 +21,5 @@ I've worked with several programming languages
 - I forgot what else again
 
 3D graphics and cyber security are my thing! I also like to reverse engineer apps that have time fuses or license keys, or cryptography to bring discontinued software back to life!
+
+I've done some contributions to stuff like ComryUI and llama.cpp and stuff
