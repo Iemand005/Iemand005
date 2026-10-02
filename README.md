@@ -16,3 +16,5 @@ I've worked with several programming languages
 - Java/Kotlin
 - JavaScript/TypeScript
 - .NET languages like C#/Visual Basic and PowerShell
+- Python of course...
+- HTML and CSS!
