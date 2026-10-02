@@ -18,3 +18,5 @@ I've worked with several programming languages
 - .NET languages like C#/Visual Basic and PowerShell
 - Python of course...
 - HTML and CSS!
+
+3D graphics and cyber security are my thing! I also like to reverse engineer apps that have time fuses or license keys, or cryptography to bring discontinued software back to life!
