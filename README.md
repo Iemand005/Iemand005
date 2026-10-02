@@ -11,3 +11,8 @@ I also make some mobile and desktop apps.
 I've worked with several programming languages
 - C/C++
 - Objective-C/C++
+- Rust
+- Go
+- Java/Kotlin
+- JavaScript/TypeScript
+- .NET languages like C#/Visual Basic and PowerShell
