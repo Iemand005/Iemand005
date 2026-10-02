@@ -10,7 +10,7 @@ I also make some mobile and desktop apps.
 
 <details>
 <summary>I've worked with several programming languages</summary>
-a
+
 - C/C++
 - Objective-C/C++
 - Rust
