@@ -24,3 +24,5 @@ I've worked with several programming languages
 
 I've done some contributions to stuff like ComfyUI and llama.cpp and stuff.
 Check out my [native AI inference library](https://github.com/Iemand005/AIOne)! It supports LLM and Stable Diffusion models (gguf). You can generate text and images with a single, small binary rather than requiring 6GB of python packages + a whole webUI lol.
+
+Check out my projects down here:
