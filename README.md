@@ -22,4 +22,5 @@ I've worked with several programming languages
 
 3D graphics and cyber security are my thing! I also like to reverse engineer apps that have time fuses or license keys, or cryptography to bring discontinued software back to life!
 
-I've done some contributions to stuff like ComfyUI and llama.cpp and stuff
+I've done some contributions to stuff like ComfyUI and llama.cpp and stuff.
+Check out my [native AI inference library](https://github.com/Iemand005/AIOne)! It supports LLM and Stable Diffusion models (gguf). You can generate text and images with a single, small binary rather than requiring 6GB of python packages + a whole webUI lol.
