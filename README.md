@@ -8,6 +8,7 @@ I also make some mobile and desktop apps.
 
 [VulpOS](https://vulpos.pages.dev/)
 
+<details>
 I've worked with several programming languages
 - C/C++
 - Objective-C/C++
@@ -19,6 +20,7 @@ I've worked with several programming languages
 - Python of course...
 - HTML and CSS!
 - I forgot what else again
+</details>
 
 3D graphics and cyber security are my thing! I also like to reverse engineer apps that have time fuses or license keys, or cryptography to bring discontinued software back to life!
 
