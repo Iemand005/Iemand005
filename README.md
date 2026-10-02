@@ -9,7 +9,8 @@ I also make some mobile and desktop apps.
 [VulpOS](https://vulpos.pages.dev/)
 
 <details>
-I've worked with several programming languages
+<summary>I've worked with several programming languages</summary>
+a
 - C/C++
 - Objective-C/C++
 - Rust
