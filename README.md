@@ -22,16 +22,11 @@ I also make some mobile and desktop apps, and made a little operating system tha
 <details>
 <summary>I also have experience with several frameworks.</summary>
 
-- C/C++
-- Objective-C/C++
-- Rust
-- Go
-- Java/Kotlin
-- JavaScript/TypeScript
-- C#/Visual Basic and PowerShell (.NET, COM and ActiveX are cool!)
-- Python of course...
-- HTML and CSS!
-- I forgot what else again
+- Svelte
+- React (Native)
+- Angular
+- Spring Boot
+
 </details>
 
 3D graphics and cyber security are my thing! I also like to reverse engineer apps that have time fuses or license keys, or cryptography to bring discontinued software back to life!
