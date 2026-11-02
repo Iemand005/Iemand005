@@ -5,7 +5,7 @@ Some of the projects I made are my [cross platform game engine (C++)](https://gi
 I also make some mobile and desktop apps, and made a little operating system that runs in your browser: [VulpOS](https://vulpos.pages.dev/).
 
 <details>
-<summary>I've worked with several programming languages</summary>
+<summary>I've worked with several programming languages. Mainly C++ and JS.</summary>
 
 - C/C++
 - Objective-C/C++
@@ -13,7 +13,22 @@ I also make some mobile and desktop apps, and made a little operating system tha
 - Go
 - Java/Kotlin
 - JavaScript/TypeScript
-- .NET languages like C#/Visual Basic and PowerShell
+- C#/Visual Basic and PowerShell (.NET, COM and ActiveX are cool!)
+- Python of course...
+- HTML and CSS!
+- I forgot what else again
+</details>
+
+<details>
+<summary>I also have experience with several frameworks.</summary>
+
+- C/C++
+- Objective-C/C++
+- Rust
+- Go
+- Java/Kotlin
+- JavaScript/TypeScript
+- C#/Visual Basic and PowerShell (.NET, COM and ActiveX are cool!)
 - Python of course...
 - HTML and CSS!
 - I forgot what else again
